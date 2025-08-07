@@ -10,9 +10,9 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.3-r3
-    created: "2025-08-07T04:32:13.671565045Z"
+    created: "2025-08-07T05:03:31.963931257Z"
     description: Coturn TURN server
-    digest: 5a213a47a49b9fe6428defe00e2bfdf58e4ac6a8da8fef8eb9e12263dad2960f
+    digest: 52e670185075dd4e70366d4d9f0067aecda1115f2c679758161a1b9b20a9d864
     name: coturn
     type: application
     urls:
@@ -29,7 +29,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.3-r2
-    created: "2025-08-07T04:32:13.670692918Z"
+    created: "2025-08-07T05:03:31.963282117Z"
     description: Coturn TURN server
     digest: fdef5af703edd1d3e46af0966edb28615b958fef7f4b18cef5fc9c988c77d9b9
     name: coturn
@@ -46,7 +46,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.3-r2
-    created: "2025-08-07T04:32:13.670063949Z"
+    created: "2025-08-07T05:03:31.96261868Z"
     description: Coturn TURN server
     digest: b9ca8b20d421c871c734599832a4a58031fbfafa54b7b5bc32e5e1a49c776f91
     name: coturn
@@ -63,7 +63,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.2-r8
-    created: "2025-08-07T04:32:13.669436343Z"
+    created: "2025-08-07T05:03:31.96197496Z"
     description: Coturn TURN server
     digest: e6a7b01eac05d9d40dab5502722fac94b567e92c38e1a1f617823db96a10bdcf
     name: coturn
@@ -80,7 +80,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.2-r8
-    created: "2025-08-07T04:32:13.668771634Z"
+    created: "2025-08-07T05:03:31.961301925Z"
     description: Coturn TURN server
     digest: cab765f8a5db6f8d7f542cd97e600b3a8bce20f1edac3fac43b1c9c0e5de0791
     name: coturn
@@ -105,7 +105,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.2-r7
-    created: "2025-08-07T04:32:13.66806168Z"
+    created: "2025-08-07T05:03:31.960636383Z"
     description: Coturn TURN server
     digest: 4d4aa85091db74109de4824b69457b91c84715ef3975ef42c48178fef52ea95b
     name: coturn
@@ -128,7 +128,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.2-r4
-    created: "2025-08-07T04:32:13.666878004Z"
+    created: "2025-08-07T05:03:31.959610769Z"
     description: Coturn TURN server
     digest: 2331080fd53a2b1dce98406e8fe4f03b9bf03780e5ab71c8c968ecc1d5022938
     name: coturn
@@ -149,7 +149,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.2-r3
-    created: "2025-08-07T04:32:13.66590667Z"
+    created: "2025-08-07T05:03:31.958589413Z"
     description: Coturn TURN server
     digest: 9610c2ae2dcf5d0ad9d3bca89adae152388fc39bfa3d6834a0f2ed35ce3fd602
     name: coturn
@@ -168,7 +168,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.2-r1
-    created: "2025-08-07T04:32:13.665262511Z"
+    created: "2025-08-07T05:03:31.957937568Z"
     description: Coturn TURN server
     digest: 0d7a1959619b386df53619885db95ddde5015c4d7c2bdc6f0ab690f7f6ee8cd0
     name: coturn
@@ -185,7 +185,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.1-r2
-    created: "2025-08-07T04:32:13.664581312Z"
+    created: "2025-08-07T05:03:31.957277718Z"
     description: Coturn TURN server
     digest: 681afccfffa9e248630b884d16616902a7c998181d82d59406a8ca67aef92a37
     name: coturn
@@ -199,7 +199,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 4.6.1-r2
-    created: "2025-08-07T04:32:13.663889822Z"
+    created: "2025-08-07T05:03:31.956552742Z"
     description: Coturn TURN server
     digest: b4c326f31ed129500ba42f5d4acc7a96676d9a0322b55c951596e861aff5341b
     name: coturn
@@ -214,9 +214,9 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.2.5
-    created: "2025-08-07T04:32:13.67607689Z"
+    created: "2025-08-07T05:03:31.970958094Z"
     description: A Helm chart for koptimize
-    digest: 629351c981116dc576a7fa2cc8723f8cfb4a77582ed5687818a53dfc4910034a
+    digest: c737d13cd3143002e172741a8da10df9a90530ee958377ffafe3e2a7d771aa8b
     name: koptimize
     type: application
     urls:
@@ -228,7 +228,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.2.4
-    created: "2025-08-07T04:32:13.675682892Z"
+    created: "2025-08-07T05:03:31.970190176Z"
     description: A Helm chart for koptimize
     digest: a6f2c7a3927c02260428674fa90ef34de59655398edda5b03072342c16760de9
     name: koptimize
@@ -242,7 +242,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.2.4
-    created: "2025-08-07T04:32:13.675302741Z"
+    created: "2025-08-07T05:03:31.969425013Z"
     description: A Helm chart for koptimize
     digest: bb90b41578fb230f2e4bafe71199caac51909b5fbe16d15fe8c09eba5ccd7d07
     name: koptimize
@@ -256,7 +256,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.2.4
-    created: "2025-08-07T04:32:13.674902361Z"
+    created: "2025-08-07T05:03:31.968623329Z"
     description: A Helm chart for koptimize
     digest: 408afe92e5397ec767a00a8b612fccf8ddee472879b6014e7049dddb255c9a31
     name: koptimize
@@ -270,7 +270,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.2.3
-    created: "2025-08-07T04:32:13.674510508Z"
+    created: "2025-08-07T05:03:31.967684843Z"
     description: A Helm chart for koptimize
     digest: 8e1b20ca96ec51f2c03b59a1fcd31e217078bbfe173b1e302eb30cf7f7bb9462
     name: koptimize
@@ -284,7 +284,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.1.2
-    created: "2025-08-07T04:32:13.673820754Z"
+    created: "2025-08-07T05:03:31.966571516Z"
     description: A Helm chart for koptimize
     digest: 7e7b55fb05248cc25bc315e8a5820c0e8eec8e683bb1e78b53a70d55f13842a6
     name: koptimize
@@ -298,7 +298,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 1.1.2
-    created: "2025-08-07T04:32:13.673006797Z"
+    created: "2025-08-07T05:03:31.965593206Z"
     description: A Helm chart for koptimize
     digest: 03a09beede62f7e305258c16947122f25f42c52bf0cf41be19395b5cff36bf4b
     name: koptimize
@@ -308,7 +308,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-08-07T04:32:13.672632778Z"
+    created: "2025-08-07T05:03:31.96515901Z"
     description: A Helm chart for koptimize
     digest: f5633b10519ca7ac894f34afc6f0771b807e47227723d80c303b70a979a1a8e8
     name: koptimize
@@ -318,7 +318,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-08-07T04:32:13.672277755Z"
+    created: "2025-08-07T05:03:31.964624501Z"
     description: A Helm chart for koptimize
     digest: ac5b34e2b5e0934bfe44a15c4edaf935ab9dc33918c4fc9fada45fe8c86e9f10
     name: koptimize
@@ -328,7 +328,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-08-07T04:32:13.671914998Z"
+    created: "2025-08-07T05:03:31.964284246Z"
     description: A Helm chart for koptimize
     digest: 6706571839c98d23d2fcaebf2f635f97619c202bfba6e3e6d7809c5ae41d2f3c
     name: koptimize
@@ -356,9 +356,9 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.45.1
-    created: "2025-08-07T04:32:13.684752751Z"
+    created: "2025-08-07T05:03:31.983438858Z"
     description: NetBird VPN management platform
-    digest: c2ed40cc8befde180f6535ebb6f0ca6e7ed23f69d44a938fd92baeeb967f956e
+    digest: 06742e217428c066bbb42ca053f04b2a6e312dc550d18655b09a111b7b44022d
     icon: https://avatars.githubusercontent.com/u/100464677
     name: netbird
     type: application
@@ -374,7 +374,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.35.2
-    created: "2025-08-07T04:32:13.683878741Z"
+    created: "2025-08-07T05:03:31.982544005Z"
     description: NetBird VPN management platform
     digest: 8c75ae930bb5aafc79c45c23ed0f3388d6834196694556c7d805bfee0d77fa5c
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -392,7 +392,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.26.3
-    created: "2025-08-07T04:32:13.683109522Z"
+    created: "2025-08-07T05:03:31.981763753Z"
     description: NetBird VPN management platform
     digest: a12b4e76409485944c883c82af311767a40c3df2c9ed7b8d2921cc9cef3ae858
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -410,7 +410,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.26.3
-    created: "2025-08-07T04:32:13.682501202Z"
+    created: "2025-08-07T05:03:31.981133089Z"
     description: NetBird VPN management platform
     digest: 10c5ff2cb7095368fa69df9b448d6ccf009b5cb355ae78fd6514d6532cbe538e
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -432,7 +432,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.25.5
-    created: "2025-08-07T04:32:13.681873405Z"
+    created: "2025-08-07T05:03:31.980481615Z"
     description: NetBird VPN management platform
     digest: dd1a1a74391e2e61f48a60a466ebccbd511d81dd4665f3fa4b4323c2ddcb8697
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -452,7 +452,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.23.4
-    created: "2025-08-07T04:32:13.68119941Z"
+    created: "2025-08-07T05:03:31.979856822Z"
     description: NetBird VPN management platform
     digest: 9dfb8f30eaf3d88aa1014820e649056ad28c935baed223cdd430d50ca9613721
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -470,7 +470,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.23.4
-    created: "2025-08-07T04:32:13.680533159Z"
+    created: "2025-08-07T05:03:31.979152556Z"
     description: NetBird VPN management platform
     digest: 67d03873036e1081524fdf36c3f596da2f9f6323ffd3009fb68611107131dcb7
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -485,7 +485,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.21.7
-    created: "2025-08-07T04:32:13.679145098Z"
+    created: "2025-08-07T05:03:31.977021417Z"
     description: NetBird VPN management platform
     digest: bfe92ee2cee0fcaaf5e6ca0fe24a40ea2f8796a323a40c0a02a253f01571da43
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -500,7 +500,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.21.3
-    created: "2025-08-07T04:32:13.678525266Z"
+    created: "2025-08-07T05:03:31.975792551Z"
     description: NetBird VPN management platform
     digest: bfa3a24c2e022533789a1f4861d05b0f1431cb727f4b3c63ec7f8a2f7116e5f0
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -515,7 +515,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.20.5
-    created: "2025-08-07T04:32:13.677921686Z"
+    created: "2025-08-07T05:03:31.97456109Z"
     description: NetBird VPN management platform
     digest: ee6b3e03dd15b50ee7579e13fa5d70a327ea386a07a5fb88c86b732843fd5576
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -530,7 +530,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.20.5
-    created: "2025-08-07T04:32:13.677305692Z"
+    created: "2025-08-07T05:03:31.973352774Z"
     description: NetBird VPN management platform
     digest: ec8d1ac9527338af32f0b27d8e982b05257712ac1bd5885366a67b84e5f6da32
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -545,7 +545,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.19.0
-    created: "2025-08-07T04:32:13.676672274Z"
+    created: "2025-08-07T05:03:31.972125912Z"
     description: NetBird VPN management platform
     digest: 6172abfeeb09510a8ea8dd1f2e9cfb3cf2b420e23828a7069089ae74db8f9167
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -560,7 +560,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.19.0
-    created: "2025-08-07T04:32:13.693052556Z"
+    created: "2025-08-07T05:03:31.992111131Z"
     description: NetBird VPN management platform
     digest: 71988e46074a2368c1425167f65cf22ba93dd5c9162b442411fbffe02e100abd
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -575,7 +575,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.16.0
-    created: "2025-08-07T04:32:13.692426924Z"
+    created: "2025-08-07T05:03:31.99048888Z"
     description: NetBird VPN management platform
     digest: 15cc12e7524fa2cb5db5fbaae82e77543c36e46a6622be0d6738e8076f4911cd
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -590,7 +590,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.16.0
-    created: "2025-08-07T04:32:13.69131989Z"
+    created: "2025-08-07T05:03:31.98989692Z"
     description: NetBird VPN management platform
     digest: 92fd5eda027e7298ed382b2d14c3c81f420f7a189ba3bbf3b6ae230a8cb65663
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -605,7 +605,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.16.0
-    created: "2025-08-07T04:32:13.690360335Z"
+    created: "2025-08-07T05:03:31.989248762Z"
     description: NetBird VPN management platform
     digest: 7733f82dd6f3e5bf375917dbc521948b3fc18421fbcebd3ff60e41e2b0a68693
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -620,7 +620,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.689773777Z"
+    created: "2025-08-07T05:03:31.988616175Z"
     description: NetBird VPN management platform
     digest: eed8edf5122c48c320974e5057d284dfdaf8d4b8bb680ba0e36b954b124ea1d1
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -635,7 +635,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.689210124Z"
+    created: "2025-08-07T05:03:31.988043963Z"
     description: NetBird VPN management platform
     digest: 41ad2eef2f6c13d60115b6f8c83597efefd106990d3b66f7edbfb7729e8279b5
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -650,7 +650,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.688621812Z"
+    created: "2025-08-07T05:03:31.98741879Z"
     description: NetBird VPN management platform
     digest: 578e3c09d136dec8be754cfa47006640b2319fcb1c8b8a1ddffba8695e7b5ea7
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -665,7 +665,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.687966803Z"
+    created: "2025-08-07T05:03:31.986841308Z"
     description: NetBird VPN management platform
     digest: e2aee7a0fb83ca95f554dd15686397df19c1e24591bbfd550442b33f076a7354
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -680,7 +680,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.687392419Z"
+    created: "2025-08-07T05:03:31.98621919Z"
     description: NetBird VPN management platform
     digest: 8deab0273725223607f5100da4485942d0b832df90e9432c717f507d5974fb41
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -695,7 +695,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.686770213Z"
+    created: "2025-08-07T05:03:31.985547287Z"
     description: NetBird VPN management platform
     digest: a10f8c245aa942a07e21f07413d4e598f03ba47aaa01604b80b727fa52888c2c
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -710,7 +710,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.14.4
-    created: "2025-08-07T04:32:13.686135843Z"
+    created: "2025-08-07T05:03:31.984277332Z"
     description: NetBird VPN management platform
     digest: fc89ca018a2a11856b7cf01ad1649fe390356de05c025f11d5622ada4fe4f1ff
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -738,9 +738,9 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v2.12.0
-    created: "2025-08-07T04:32:13.699338051Z"
+    created: "2025-08-07T05:03:31.998837953Z"
     description: UI for the NetBird VPN management platform
-    digest: 3695d7b047266bc679efaaf09c5046699568586c472ee11781ec7149836c4792
+    digest: bc62a353ca92b13259b8a79a39e1a1cd95864d6c4970c9b822cf75cc1ca20f3c
     icon: https://avatars.githubusercontent.com/u/100464677
     name: netbird-dashboard
     type: application
@@ -763,7 +763,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v2.8.2
-    created: "2025-08-07T04:32:13.698836035Z"
+    created: "2025-08-07T05:03:31.998397855Z"
     description: UI for the NetBird VPN management platform
     digest: ed4dc3605fcd8b86bc40815c9bdc2b439ffb2780660b800cf44cba9627624139
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -788,7 +788,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v2.8.2
-    created: "2025-08-07T04:32:13.69804768Z"
+    created: "2025-08-07T05:03:31.997987576Z"
     description: UI for the NetBird VPN management platform
     digest: 5fdde44a5eaf758896940d68de734aa60881a10723853ed769b8af26fdbba0de
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -813,7 +813,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v2.1.3
-    created: "2025-08-07T04:32:13.697041235Z"
+    created: "2025-08-07T05:03:31.996329361Z"
     description: UI for the NetBird VPN management platform
     digest: c963006835f1618a267cd782d7c01346aa9104c9709f4a9f4089a8b9e1bccc84
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -840,7 +840,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.17.16
-    created: "2025-08-07T04:32:13.696633311Z"
+    created: "2025-08-07T05:03:31.995936706Z"
     description: UI for the NetBird VPN management platform
     digest: f07f4c11cd165c969b430298181f96bdfb928cd4eff99bb6d3412024f6cf5e71
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -862,7 +862,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.15.2
-    created: "2025-08-07T04:32:13.69623769Z"
+    created: "2025-08-07T05:03:31.995497189Z"
     description: UI for the NetBird VPN management platform
     digest: 1f4aab433602d02ca5e3e1793517f3054c3f98958a560ac57234c9b0ca4205c8
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -884,7 +884,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.15.1
-    created: "2025-08-07T04:32:13.695828653Z"
+    created: "2025-08-07T05:03:31.994975966Z"
     description: UI for the NetBird VPN management platform
     digest: 773d2e8ec1766d00c62a0e3560fd955dec2466e9ffdbe1f2ec7b642b3c18ac6a
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -906,7 +906,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.15.0
-    created: "2025-08-07T04:32:13.695450937Z"
+    created: "2025-08-07T05:03:31.99456252Z"
     description: UI for the NetBird VPN management platform
     digest: a7851c44c30618f6c9637164076cf3d65f955a87718da438c0167cbb42659cbe
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -928,7 +928,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.12.4
-    created: "2025-08-07T04:32:13.695050387Z"
+    created: "2025-08-07T05:03:31.9941732Z"
     description: UI for the NetBird VPN management platform
     digest: 791adbace92b4789652991dc644d948be46d8b3df01619259e4446ecbba7ff63
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -950,7 +950,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.11.0
-    created: "2025-08-07T04:32:13.694646501Z"
+    created: "2025-08-07T05:03:31.993783581Z"
     description: UI for the NetBird VPN management platform
     digest: fe555347152359086ebed72a633c04bc4a95c2556e57bf85e1b5ec0cd7acdf90
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -972,7 +972,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.11.0
-    created: "2025-08-07T04:32:13.694260248Z"
+    created: "2025-08-07T05:03:31.993361157Z"
     description: UI for the NetBird VPN management platform
     digest: 57f744f753abdfd4a37dfeaa9a85fc17f1df30bede6a4594b9ecb9751f4aa361
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -994,7 +994,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.10.0
-    created: "2025-08-07T04:32:13.693828708Z"
+    created: "2025-08-07T05:03:31.992974212Z"
     description: UI for the NetBird VPN management platform
     digest: 0194dc609b53de3d0c2bc15e2f5cdbd730f91784b30f4c08c11aa8dc949adaca
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -1016,7 +1016,7 @@ entries:
           url: https://raw.githubusercontent.com/netbirdio/dashboard/main/media/add-peer.png
     apiVersion: v2
     appVersion: v1.8.0
-    created: "2025-08-07T04:32:13.693449379Z"
+    created: "2025-08-07T05:03:31.992545116Z"
     description: UI for the NetBird VPN management platform
     digest: 7b7c583f047c6cb5597b6baa6906b3025db4b1962bc1a6c228d96da9d6a5329d
     icon: https://avatars.githubusercontent.com/u/100464677
@@ -1025,4 +1025,4 @@ entries:
     urls:
     - netbird-dashboard-0.2.0.tgz
     version: 0.2.0
-generated: "2025-08-07T04:32:13.663200687Z"
+generated: "2025-08-07T05:03:31.95583478Z"
