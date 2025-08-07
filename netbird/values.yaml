@@ -58,11 +58,11 @@ turn:
 
 ## @param nameOverride
 ##
-nameOverride: ""
+nameOverride: ''
 
 ## @param fullnameOverride
 ##
-fullnameOverride: ""
+fullnameOverride: ''
 
 ## @param defaultLabels Defines default labels for all created resources.
 ##
@@ -87,6 +87,10 @@ management:
   ##
   replicaCount: 1
 
+  ## @param management.env
+  ##
+  env: []
+
   image:
     ## @param management.image.repository
     ##
@@ -99,7 +103,7 @@ management:
     # yamllint disable-line rule:line-length
     ## @param management.image.tag Overrides the image tag whose default is the chart appVersion.
     ##
-    tag: ""
+    tag: ''
 
   ## @param management.imagePullSecrets
   imagePullSecrets: []
@@ -118,7 +122,7 @@ management:
     # yamllint disable-line rule:line-length
     ## @param management.serviceAccount.name The name of the service account to use.
     ##
-    name: ""
+    name: ''
 
   # yamllint disable-line rule:line-length
   ## @param management.deploymentAnnotations Annotations to add to the management deployment.
@@ -168,7 +172,7 @@ management:
 
     ## @param management.ingress.className
     ##
-    className: ""
+    className: ''
 
     ## @param management.ingress.annotations
     ##
@@ -316,7 +320,7 @@ signal:
     # yamllint disable-line rule:line-length
     ## @param signal.image.tag Overrides the image tag whose default is the chart appVersion.
     ##
-    tag: ""
+    tag: ''
 
   ## @param signal.imagePullSecrets
   imagePullSecrets: []
@@ -334,7 +338,7 @@ signal:
 
     ## @param signal.serviceAccount.name The name of the service account to use.
     ##
-    name: ""
+    name: ''
 
   # yamllint disable-line rule:line-length
   ## @param signal.deploymentAnnotations Annotations to add to the signal deployment.
@@ -383,7 +387,7 @@ signal:
 
     ## @param signal.ingress.className
     ##
-    className: ""
+    className: ''
 
     ## @param signal.ingress.annotations
     ##
@@ -394,7 +398,6 @@ signal:
 
     hosts:
       signal:
-
         ## @param signal.ingress.hosts.signal.host
         ##
         host: example.com
@@ -507,7 +510,7 @@ relay:
     # yamllint disable-line rule:line-length
     ## @param relay.image.tag Overrides the image tag whose default is the chart appVersion.
     ##
-    tag: ""
+    tag: ''
 
   serviceAccount:
     # yamllint disable-line rule:line-length
@@ -523,7 +526,7 @@ relay:
     # yamllint disable-line rule:line-length
     ## @param relay.serviceAccount.name The name of the service account to use.
     ##
-    name: ""
+    name: ''
 
   ## @param relay.imagePullSecrets
   imagePullSecrets: []
@@ -582,7 +585,7 @@ relay:
 
     ## @param relay.ingress.className
     ##
-    className: ""
+    className: ''
 
     ## @param relay.ingress.annotations
     ##

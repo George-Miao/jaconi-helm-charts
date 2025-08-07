@@ -43,6 +43,10 @@ spec:
               envsubst < /tmp/netbird/management.tmpl.json > /etc/netbird/management.json &&
               cat /etc/netbird/management.json
           env:
+            {{- range .Values.management.env }}
+            - name: {{ .name }}
+              value: {{ .value | quote }}
+            {{- end }}
             - name: NETBIRD_SIGNAL_URI
               value: {{ .Values.signal.uri }}
             - name: NETBIRD_SIGNAL_PROTOCOL
@@ -117,7 +121,7 @@ spec:
             # IDP configuration.
             - name: NETBIRD_IDP_MANAGER_TYPE
               value: "{{ .Values.idp.managerType }}"
-              
+
             {{- if eq .Values.idp.managerType "auth0" }}
             - name: NETBIRD_IDP_AUTH0_AUDIENCE
               value: "{{ .Values.idp.audience }}"
@@ -131,13 +135,13 @@ spec:
             - name: NETBIRD_IDP_KEYCLOAK_TOKEN_ENDPOINT
               value: "{{ .Values.idp.tokenEndpoint }}"
             {{- end }}
-            
+
             # Database Configuration
             {{- if .Values.management.database.postgres }}
             - name: NETBIRD_STORE_CONFIG_ENGINE
               value: postgres
             {{- end }}
-              
+
             # Relay Configuration
             - name: NETBIRD_RELAY_DOMAIN
               value: {{ .Values.relay.domainName }}
