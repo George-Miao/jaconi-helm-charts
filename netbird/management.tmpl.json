@@ -52,7 +52,11 @@
             "Audience": "${NETBIRD_IDP_AUTH0_AUDIENCE}",
             "AuthIssuer": "${NETBIRD_IDP_AUTH0_AUTH_ISSUER}",
             "AdminEndpoint": "${NETBIRD_IDP_KEYCLOAK_ADMIN_ENDPOINT}",
-            "TokenEndpoint": "${NETBIRD_IDP_KEYCLOAK_TOKEN_ENDPOINT}"
+            "TokenEndpoint": "${NETBIRD_IDP_KEYCLOAK_TOKEN_ENDPOINT}",
+            "ManagementEndpoint": "${NETBIRD_MANAGEMENT_ENDPOINT}"
+        },
+        "ExtraConfig": {
+            "ManagementEndpoint": "${NETBIRD_MANAGEMENT_ENDPOINT}"
         }
     },
     "DeviceAuthorizationFlow": {
